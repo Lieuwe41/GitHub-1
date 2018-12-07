@@ -1,5 +1,7 @@
-.first{
-	display: block;
-    float: left;
-    font-size: 70px;	
+p {
+    color: red;
+}
+
+a {
+    color: blue;
 }
