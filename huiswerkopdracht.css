@@ -47,8 +47,6 @@ html, body {
    margin-left: 200px;
 }
 
-
-
   .page-content a {
    color: #6f717d;
    font-weight: bold;
@@ -58,6 +56,7 @@ h1 {
   margin: 10px 0 40px;
   padding-bottom: 10px;
   color: #6f717d;
+  border-bottom: 2px solid #6f717d;
 }
 
 h2 {
