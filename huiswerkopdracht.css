@@ -47,6 +47,8 @@ html, body {
    margin-left: 200px;
 }
 
+
+
   .page-content a {
    color: #6f717d;
    font-weight: bold;
@@ -54,9 +56,15 @@ html, body {
 
 h1 {
   margin: 10px 0 40px;
-  padding-bottom: 10px;
   color: #6f717d;
-  border-bottom: 2px solid #6f717d;
+  padding-bottom: 10px;
+    border-bottom: 2px solid #6f717d
+      border-bottom-width: 2px;
+      border-bottom-style: solid;
+      border-bottom-color: rgb(111, 113, 125);
+}
+
+
 }
 
 h2 {
