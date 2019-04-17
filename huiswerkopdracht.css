@@ -76,18 +76,31 @@ h2 {
 
 
 .page-nav {
- 
+  position: absolute;
+  left: 10;
 }
 
-  .page-nav ul {
+.page-diet {
+  position: absolute;
+  left: -10;
+  line-height: 8;
+}
+
+.page-social {
+  position: absolute;
+  left: -10;
+  line-height: 450%;
+}
+
+
+.page-nav ul {
     list-style-type: none;
     padding-left: 20px;
   }
 
     .page-nav ul li {
       transition: all 300ms ease;
-      left: 0px;
-      position: relative;
+      left: 20px;
       line-height: 200%;
     }
 
