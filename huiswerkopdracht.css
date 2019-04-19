@@ -84,13 +84,13 @@ h2 {
 .page-diet {
   position: absolute;
   left: -10;
-  line-height: 8;
+  line-height:450%;
 }
 
 .page-social {
   position: absolute;
   left: -10;
-  line-height: 450%;
+  line-height: 8;
 }
 
 
