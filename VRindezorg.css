@@ -15,7 +15,8 @@ body{
 }
 
 .main-nav{
-	background-repeat:no-repeat;
+  background-image:url(https://fs.codeanywhere.com/file/open?token=7f8bf46d7a956e70240d8eed6a73ff197dbeb183fe7e05e2&connectionId=2057795&path=images/VRbanner.png&encoding=UTF-8&id=b78e9f5945cb917efa8304b565b9249f&);
+  background-repeat:no-repeat;
 	background-size:cover;
 	background-position:center -50px;
 	padding: 100px 20px 0px 20px;
