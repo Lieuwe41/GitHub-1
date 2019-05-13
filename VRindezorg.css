@@ -1,20 +1,21 @@
 body{
-	background-color: white;
+	background-color: #f3f3f3;
 	padding:0;
 	margin:0;
 }
 
 .page {
 	margin: 40px auto;
-	border-top: 2px solid black;
-  border-bottom: 2px solid black;
+	border: 2px solid black;
+	border-radius: 15px;
 	background-color: white;
 	overflow: hidden;
-	width: 800px;
-	font-family: sans-serif;
+	width:768px;
+	font-family: monospace;
 }
 
 .main-nav{
+	background-image:url(https://upload.wikimedia.org/wikipedia/commons/7/71/2010-kodiak-bear-1.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-position:center -50px;
@@ -43,12 +44,10 @@ body{
 }
 
 h1{
-  color: #6f717d;
-  padding-bottom: 10px;
-  border-bottom: 2px solid #6f717d
-  border-bottom-width: 2px;
-  border-bottom-style: solid;
-  border-bottom-color: rgb(111, 113, 125);
+	background-color: #b68052;
+	margin: 20px;
+	padding: 10px 20px;
+	color: aliceblue;
 }
 
 h2{
