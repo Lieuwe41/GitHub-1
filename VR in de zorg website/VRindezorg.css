@@ -4,6 +4,7 @@ body{
   background-image:url(images/VRindezorgchirurgie.jpg);
   background-repeat:no-repeat;
   background-size:100%;
+	background-color:rgba(111, 113, 125, 1.00);
 }
 
 .page {
@@ -17,6 +18,16 @@ body{
 }
 
 .introduction{
+  margin-left: 75px;
+  margin-right: 75px;
+}
+
+.ouderen{
+  margin-left:75px;
+  margin-right:75px;
+}
+
+.fobie{
   margin-left: 75px;
   margin-right: 75px;
 }
@@ -72,7 +83,12 @@ h1{
 
 .top-nav ul{
 	list-style-type:none;
-	
+  
+}
+
+.tabel{
+  margin-top:200px;
+  
 }
 
 .top-nav ul li{
@@ -84,35 +100,4 @@ h1{
 
 .top-nav ul li:hover{
 	left: 4px;
-}
-
-
-input[type=text], select, textarea {
-  width: 100%; 
-  padding: 12px; 
-  border: 1px solid #ccc; 
-  border-radius: 4px; 
-  box-sizing: border-box; 
-  margin-top: 6px; 
-  margin-bottom: 16px; 
-  resize: vertical;
-}
-
-input[type=submit] {
-  background-color: #4CAF50;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-input[type=submit]:hover {
-  background-color: #45a049;
-}
-
-.container {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
 }
