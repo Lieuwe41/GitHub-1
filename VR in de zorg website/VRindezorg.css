@@ -60,17 +60,21 @@ body{
 }
 
 h1{
-  color: #6f717d;
+  color: #585961;
   padding-bottom: 10px;
-  border-bottom: 2px solid #6f717d
+  border-bottom: 2px solid #585961
   border-bottom-width: 2px;
   border-bottom-style: solid;
   border-bottom-color: rgb(111, 113, 125);
 }
 
+h2{
+  color: #6f717d;
+}
+
 .top-nav a {
 	text-decoration: none;
-  color: #fffffffa;
+  color: #001380;
 }
 
 .top-nav ul{
