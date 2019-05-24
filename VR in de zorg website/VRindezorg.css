@@ -78,7 +78,8 @@ h1{
 }
 
 .top-nav a {
-	text-decoration:none;
+	text-decoration: none;
+  color: #fffffffa;
 }
 
 .top-nav ul{
