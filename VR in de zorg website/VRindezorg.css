@@ -30,7 +30,7 @@ body{
 .main-nav a{
 	display:inline-block;
 	background-color:6f717d;
-	color:white;
+	color:rgba(255, 255, 255, 1.00;
 	text-decoration:none;
 	padding: 25px;
 	position:relative;
